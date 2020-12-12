@@ -5,7 +5,8 @@ List of the technologies and tools I have learned and used over time. Updating i
 ## Web/Frontend
 * HTML
 * CSS
-* JavaScript (vanilla) 
+* JavaScript/EcmaScript (vanilla) - Trying to keep up with new ES releases!
+* Going to learn SCSS
 
 *Libraries:*
 * Bootstrap 3/4
@@ -23,12 +24,24 @@ List of the technologies and tools I have learned and used over time. Updating i
 
 *Frameworks:*
 * Express.js
+* Laravel - Slowly learning it to fix a client site.
 
 ## Databases
 - MongoDB
 - PostgreSQL
 
 I have tried to use and implement both relational & non-relational databases and learn their query syntax.
+
+## Content Management Systems
+* WordPress
+
+I have created projects using Elementor, currently creating a theme with custom PHP code.
+
+### Development Environmets
+* Visual Studio Code 
+* goormIDE
+
+Actually have tried pretty much all code editors and environments, but nothing beats VsCode.
 
 ### Version control
 * Git/Github 
@@ -38,7 +51,15 @@ I have tried to use and implement both relational & non-relational databases and
 * Netlify
 * Github Pages
 
+### Deployment workflow
+* Docker - still in the phase of figuring it out.
+
 ### Also experience in:
 * C/C++ 
 
-I am studying Computer Systems Engineering/Hardware Development and Programming in university and this is these are the main languages we use.
+I am studying Computer Systems Engineering/Hardware Development and Programming in TalTech and these are the main languages we use.
+
+### Stuff I'm planning to master
+#### Module Bundlers
+* WebPack
+#### Testing
