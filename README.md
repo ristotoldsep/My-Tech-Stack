@@ -1,7 +1,8 @@
 # My Tech Stack
 ---
 List of the technologies and tools I have learned and used over time. Updating it as I progress.
-TLDR: Familiar with several languages/libraries/frameworks/platforms - Trying to master MERN stack & also Wordpress for faster development.
+### TLDR: 
+Familiar with several languages/libraries/frameworks/platforms - Trying to master MERN stack & also Wordpress for faster development.
 
 ## Web/Frontend
 * HTML
