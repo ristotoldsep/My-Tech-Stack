@@ -1,6 +1,7 @@
 # My Tech Stack
 ---
 List of the technologies and tools I have learned and used over time. Updating it as I progress.
+TLDR: Familiar with several languages/libraries/frameworks/platforms - Trying to master MERN stack & also Wordpress for faster development.
 
 ## Web/Frontend
 * HTML
@@ -12,7 +13,7 @@ List of the technologies and tools I have learned and used over time. Updating i
 * Bootstrap 3/4
 * Semantic UI
 * jQuery
-* paper.js/howler.js
+* tachyons
 
 *Frameworks:*
 * React.js (Hooks, Redux etc...)
@@ -30,7 +31,7 @@ List of the technologies and tools I have learned and used over time. Updating i
 - MongoDB
 - PostgreSQL
 
-I have tried to use and implement both relational & non-relational databases and learn their query syntax.
+I have tried to use and implement both relational & non-relational databases and learn their query syntax. 
 
 ## Content Management Systems
 * WordPress
@@ -56,10 +57,12 @@ Actually have tried pretty much all code editors and environments, but nothing b
 
 ### Also experience in:
 * C/C++ 
+* VHDL
 
-I am studying Computer Systems Engineering/Hardware Development and Programming in TalTech and these are the main languages we use.
+I am studying Computer Systems Engineering/Hardware Development and Programming in TalTech and these are the main languages we use. 
 
-### Stuff I'm planning to master
+### Stuff I'm planning to master:
 #### Module Bundlers
 * WebPack
 #### Testing
+---
