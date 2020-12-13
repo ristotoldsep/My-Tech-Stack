@@ -22,7 +22,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 ## Server/Backend
 *Platforms:* 
 * NodeJS - Package management: NPM
-* PHP
+* PHP - mostly for WP development
 
 *Frameworks:*
 * Express.js
@@ -37,11 +37,14 @@ I have tried to use and implement both relational & non-relational databases and
 ## Content Management Systems
 * WordPress
 
-I have created projects using Elementor, currently creating a theme with custom PHP code.
+I have created projects using Elementor, currently creating a theme and improving my ability to write PHP to manipulate the data of a WordPress site
+and writing JavaScript to add interactivity.
+Hoping to acquire the skills, knowledge and vocabulary to work professionally as a WordPress developer
 
 ### Development Environmets
 * Visual Studio Code 
 * goormIDE
+* Visual Studio 2019/Geany - for C/C++
 
 Actually have tried pretty much all code editors and environments, but nothing beats VsCode.
 
@@ -66,4 +69,7 @@ I am studying Computer Systems Engineering/Hardware Development and Programming 
 #### Module Bundlers
 * WebPack
 #### Testing
+#### Workflow Automation
+
+- Basically trying to become a senior-ish developer.
 ---
