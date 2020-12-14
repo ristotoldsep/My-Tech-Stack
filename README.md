@@ -50,6 +50,7 @@ Actually have tried pretty much all code editors and environments, but nothing b
 
 ### Version control
 * Git/Github 
+* Bitbucket
 
 ### Hosting platform
 * Heroku
