@@ -34,8 +34,9 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 
 I have tried to use and implement both relational & non-relational databases and learn their query syntax. 
 
-## Content Management Systems
+## Content Management Systems & Plugins
 * WordPress
+** WooCommerce etc...
 
 I have created projects using Elementor, currently creating a theme and improving my ability to write PHP to manipulate the data of a WordPress site
 and writing JavaScript to add interactivity.
@@ -56,6 +57,7 @@ Actually have tried pretty much all code editors and environments, but nothing b
 * Heroku
 * Netlify
 * Github Pages
+* SiteGround
 
 ### Deployment workflow
 * Docker - still in the phase of figuring it out.
