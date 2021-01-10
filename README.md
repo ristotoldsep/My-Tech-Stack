@@ -7,7 +7,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 ## Web/Frontend
 * HTML
 * CSS
-* JavaScript/EcmaScript (vanilla) - Trying to keep up with new ES releases!
+* JavaScript/EcmaScript (vanilla) - Trying to keep up with new ES releases &  write code Object Oriented.
 * Going to learn SCSS
 
 *Libraries:*
@@ -36,7 +36,7 @@ I have tried to use and implement both relational & non-relational databases and
 
 ## Content Management Systems & Plugins
 * WordPress
-** WooCommerce etc...
+#### WooCommerce etc...
 
 I have created projects using Elementor, currently creating a theme and improving my ability to write PHP to manipulate the data of a WordPress site
 and writing JavaScript to add interactivity.
