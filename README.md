@@ -61,6 +61,7 @@ Actually have tried pretty much all code editors and environments, but nothing b
 
 ### Deployment workflow
 * Docker - still in the phase of figuring it out.
+* Continuous Deployment with DeployHQ
 
 ### Also experience in:
 * C/C++ 
