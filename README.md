@@ -8,7 +8,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 * HTML
 * CSS
 * JavaScript/EcmaScript (vanilla) - Trying to keep up with new ES releases &  write code Object Oriented.
-* Going to learn SCSS
+* Going to learn SCSS, Media queries for responsive development in a course soon.
 
 *Libraries:*
 * Bootstrap 3/4
