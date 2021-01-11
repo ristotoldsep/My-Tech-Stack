@@ -18,6 +18,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 
 *Libraries/Frameworks:*
 * React.js (Hooks, Redux etc...)
+* Vue.js (Planning to learn the basics)
 
 ## Server/Backend
 *Platforms:* 
@@ -39,7 +40,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 I have tried to use and implement both relational & non-relational databases and learn their query syntax. 
 
 ## Content Management Systems & Plugins
-* WordPress
+* WordPress (Management, Creating themes & Plugins)
 #### WooCommerce etc...
 
 I have created projects using Elementor, currently creating a theme and improving my ability to write PHP to manipulate the data of a WordPress site
