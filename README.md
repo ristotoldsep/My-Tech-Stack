@@ -16,7 +16,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 * jQuery
 * tachyons
 
-*Frameworks:*
+*Libraries/Frameworks:*
 * React.js (Hooks, Redux etc...)
 
 ## Server/Backend
@@ -29,8 +29,12 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 * Laravel - Slowly learning it to fix a client site.
 
 ## Databases
+### Relational:
+- PostgreSQL/mySQL
+
+### Non-relational/NoSQL:
 - MongoDB
-- PostgreSQL
+- Redis (getting familiar with it)
 
 I have tried to use and implement both relational & non-relational databases and learn their query syntax. 
 
@@ -61,7 +65,7 @@ Actually have tried pretty much all code editors and environments, but nothing b
 
 ### Deployment workflow
 * Docker - still in the phase of figuring it out.
-* Continuous Deployment with DeployHQ
+* Continuous Deployment from GitHub with DeployHQ
 
 ### Also experience in:
 * C/C++ 
@@ -72,7 +76,8 @@ I am studying Computer Systems Engineering/Hardware Development and Programming 
 ### Stuff I'm planning to master:
 #### Module Bundlers
 * WebPack
-#### Testing
+* Parcel
+#### Testing (Jest etc..)
 #### Workflow Automation
 
 - Basically trying to become a senior-ish developer.
