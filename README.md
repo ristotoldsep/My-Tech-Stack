@@ -59,6 +59,7 @@ Actually have tried pretty much all code editors and environments, but nothing b
 * Bitbucket
 
 ### Hosting platform
+* Zone
 * Heroku
 * Netlify
 * Github Pages
