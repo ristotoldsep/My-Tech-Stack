@@ -2,7 +2,7 @@
 ---
 List of the technologies and tools I have learned and used over time. Updating it as I progress.
 ### TLDR: 
-Familiar with several languages/libraries/frameworks/platforms - Trying to master MERN stack & also Wordpress for faster development. Probably stronger in front-end, but aspiring to become an experienced full stack web developer.
+Familiar with several languages/libraries/frameworks/platforms - Trying to master MERN/PHP + MySQL stack & also Wordpress for freelance development. Probably stronger in front-end, but aspiring to become an experienced full stack web developer.
 
 ## Web/Frontend
 * HTML
