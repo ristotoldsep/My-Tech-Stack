@@ -8,7 +8,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 * HTML
 * CSS
 * JavaScript/EcmaScript (vanilla) - Trying to keep up with new ES releases &  write code Object Oriented.
-* Going to learn SCSS, Media queries for responsive development in a course soon.
+* Going to learn SCSS, Media queries etc for responsive development ASAP.
 
 *Libraries:*
 * Bootstrap 3/4
@@ -23,7 +23,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 ## Server/Backend
 *Platforms:* 
 * NodeJS - Package management: NPM
-* PHP - mostly for WP development
+* PHP - WP development + Other projects | Package management: Getting into Composer
 
 *Frameworks:*
 * Express.js
@@ -43,9 +43,8 @@ I have tried to use and implement both relational & non-relational databases and
 * WordPress (Management, Creating themes & Plugins)
 #### WooCommerce etc...
 
-I have created projects using Elementor, currently creating a theme and improving my ability to write PHP to manipulate the data of a WordPress site
-and writing JavaScript to add interactivity.
-Hoping to acquire the skills, knowledge and vocabulary to work professionally as a WordPress developer
+I have created projects, themes & plugins, currently working as a freelancer & developing a multi-vendor marketplace site for a client.
+Hoping to acquire the skills, knowledge and vocabulary to work professionally as a WordPress developer.
 
 ### Development Environmets
 * Visual Studio Code 
@@ -79,6 +78,7 @@ I am studying Computer Systems Engineering/Hardware Development and Programming 
 #### Module Bundlers
 * WebPack
 * Parcel
+#### Working with different APIs
 #### Testing (Jest etc..)
 #### Workflow Automation
 
