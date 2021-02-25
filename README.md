@@ -50,6 +50,8 @@ Hoping to acquire the skills, knowledge and vocabulary to work professionally as
 * Visual Studio Code 
 * goormIDE
 * Visual Studio 2019/Geany - for C/C++
+* Xampp
+* Local By Flywheel
 
 Actually have tried pretty much all code editors and environments, but nothing beats VsCode.
 
