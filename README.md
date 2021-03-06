@@ -25,6 +25,11 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 * NodeJS - Package management: NPM
 * PHP - WP development + Other projects | Package management: Getting into Composer
 
+## Other languages:
+* C/C++ 
+* VHDL - I am studying Computer Systems Engineering/Hardware Development and Programming in TalTech and these are the main languages we use. 
+* Python (Done basic projects - planning to learn more)
+
 *Frameworks:*
 * Express.js
 * Laravel - Slowly learning it to fix a client site.
@@ -69,12 +74,6 @@ Actually have tried pretty much all code editors and environments, but nothing b
 ### Deployment workflow
 * Docker - still in the phase of figuring it out.
 * Continuous Deployment from GitHub with DeployHQ & Netlify
-
-### Also experience in:
-* C/C++ 
-* VHDL
-
-I am studying Computer Systems Engineering/Hardware Development and Programming in TalTech and these are the main languages we use. 
 
 ### Stuff I'm planning to master:
 #### Module Bundlers
