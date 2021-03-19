@@ -5,7 +5,7 @@ List of the technologies and tools I have learned and used over time. Updating i
 Familiar with several languages/libraries/frameworks/platforms - Trying to master MERN/PHP + MySQL stack & also Wordpress for freelance development. Probably stronger in front-end, but aspiring to become an experienced full stack web developer.
 
 ## Web/Frontend
-* HTML
+* HTML - Trying to use BEM architecture for naming classes etc.
 * CSS, basics of SCSS
 * JavaScript/EcmaScript (vanilla) - Trying to keep up with new ES releases &  write code Object Oriented.
 * Getting into Typescript etc.
@@ -83,5 +83,5 @@ Actually have tried pretty much all code editors and environments, but nothing b
 #### Testing (Jest etc..)
 #### Workflow Automation
 
-- Basically trying to become a senior-ish developer.
+- Basically trying to become a senior-ish developer & write clean, modular, reusable and maintanable code!
 ---
