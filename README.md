@@ -23,7 +23,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 ## Server/Backend
 *Platforms:* 
 * NodeJS - Package management: NPM
-* PHP - WP development + Other projects | Package management: Getting into Composer
+* PHP - WP development + Other projects | Package management: Composer
 
 ## Other languages:
 * C/C++ 
@@ -80,7 +80,8 @@ Actually have tried pretty much all code editors and environments, but nothing b
 * WebPack
 * Parcel
 #### Working with different APIs
-#### Testing (Jest etc..)
+#### Testing
+* PHPUnit for PHP unit tests
 #### Workflow Automation
 
 - Basically trying to become a senior-ish developer & write clean, modular, reusable and maintanable code!
