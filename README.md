@@ -29,6 +29,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 * C/C++ 
 * VHDL - I am studying Computer Systems Engineering/Hardware Development and Programming in TalTech and these are the main languages we use. 
 * Python (Done basic projects - planning to learn more)
+* Fortran
 
 *Frameworks:*
 * Express.js
@@ -48,8 +49,7 @@ I have tried to use and implement both relational & non-relational databases and
 * WordPress (Management, Creating themes & Plugins)
 #### WooCommerce etc...
 
-I have created projects, themes & plugins, currently working as a freelancer & developing a multi-vendor marketplace site for a client.
-Hoping to acquire the skills, knowledge and vocabulary to work professionally as a WordPress developer.
+I have created projects, themes & plugins, currently working professionally as a WordPress developer, designing and building websites and online stores daily.
 
 ### Development Environmets
 * Visual Studio Code 
