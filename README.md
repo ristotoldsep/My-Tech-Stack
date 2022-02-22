@@ -18,7 +18,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 
 *Libraries/Frameworks:*
 * React.js (Hooks, Redux etc...)
-* Vue.js (Planning to learn the basics)
+* Vue.js (Done 2 very basic projects)
 
 ## Server/Backend
 *Platforms:* 
