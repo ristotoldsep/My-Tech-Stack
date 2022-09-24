@@ -18,6 +18,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 
 *Libraries/Frameworks:*
 * React.js (Hooks, Redux etc...)
+* Gatsby (React + GraphQL)
 * Vue.js (Done 2 very basic projects)
 
 ## Server/Backend
@@ -65,7 +66,7 @@ Actually have tried pretty much all code editors and environments, but nothing b
 * Bitbucket
 
 ### Hosting platform
-* Zone
+* Zone/Veebimajutus/Telia etc.
 * Heroku
 * Netlify
 * Github Pages
