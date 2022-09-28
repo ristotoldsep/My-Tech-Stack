@@ -6,8 +6,8 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 
 ## Web/Frontend
 * HTML - Trying to use BEM architecture for naming classes etc.
-* CSS, basics of SCSS
-* JavaScript/EcmaScript (vanilla) - Trying to keep up with new ES releases &  write code Object Oriented.
+* CSS, trying to use SCSS where I can.
+* JavaScript/EcmaScript (vanilla) - Trying to keep up with new ES releases & write code Object Oriented.
 * Getting into Typescript etc.
 
 *Libraries:*
@@ -18,7 +18,8 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 
 *Libraries/Frameworks:*
 * React.js (Hooks, Redux etc...)
-* Gatsby (React + GraphQL)
+* Gatsby js (React + GraphQL)
+* Next.js (basics)
 * Vue.js (Done 2 very basic projects)
 
 ## Server/Backend
@@ -34,7 +35,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 
 *Frameworks:*
 * Express.js
-* Laravel - Slowly learning it to fix a client site.
+* Laravel (Very basics)
 
 ## Databases
 ### Relational:
@@ -67,10 +68,11 @@ Actually have tried pretty much all code editors and environments, but nothing b
 
 ### Hosting platform
 * Zone/Veebimajutus/Telia etc.
-* Heroku
+* Heroku (Unfortunately they cancelled their free tier)
 * Netlify
 * Github Pages
 * SiteGround
+* Gatsby cloud
 
 ### Deployment workflow
 * Docker - still in the phase of figuring it out.
