@@ -21,6 +21,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 * Gatsby js (React + GraphQL)
 * Next.js
 * Vue.js
+* Frontity - The React framework for headless WordPress
 
 ## Server/Backend
 *Platforms:* 
