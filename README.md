@@ -19,8 +19,8 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 *Libraries/Frameworks:*
 * React.js (Hooks, Redux etc...)
 * Gatsby js (React + GraphQL)
-* Next.js (basics)
-* Vue.js (Done 2 very basic projects)
+* Next.js
+* Vue.js
 
 ## Server/Backend
 *Platforms:* 
