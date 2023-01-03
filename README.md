@@ -29,14 +29,15 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 * PHP - WP development + Other projects | Package management: Composer
 
 ## Other languages:
-* C/C++ 
-* VHDL - I am studying Computer Systems Engineering/Hardware Development and Programming in TalTech and these are the main languages we use. 
-* Python (Done basic projects - planning to learn more)
+* C/C++
+* Java
+* VHDL - I studied Computer Systems Engineering/Hardware Development and Programming in TalTech and these are the main languages we used. 
+* Python (Done basic projects)
 * Fortran
 
 *Frameworks:*
 * Express.js
-* Laravel (Very basics)
+* Laravel (Basics)
 
 ## Databases
 ### Relational:
@@ -71,6 +72,7 @@ Actually have tried pretty much all code editors and environments, but nothing b
 * Zone/Veebimajutus/Telia etc.
 * Heroku (Unfortunately they cancelled their free tier)
 * Netlify
+* Vercel
 * Github Pages
 * SiteGround
 * Gatsby cloud
