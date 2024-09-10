@@ -6,7 +6,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 
 ## Web/Frontend
 * HTML - Trying to use BEM architecture for naming classes etc.
-* CSS, trying to use SCSS where I can.
+* CSS (mostly using SCSS).
 * JavaScript/EcmaScript (vanilla) - Trying to keep up with new ES releases & write code Object Oriented.
 * Getting into Typescript etc.
 
