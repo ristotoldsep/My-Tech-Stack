@@ -2,26 +2,28 @@
 ---
 List of the technologies and tools I have learned and used over time. Updating it as I progress.
 ### TLDR: 
-Familiar with several languages/libraries/frameworks/platforms - Trying to master MERN/PHP + MySQL stack & also Wordpress for freelance development. Probably stronger in front-end, but aspiring to become an experienced full stack web developer.
+Familiar with several languages/libraries/frameworks/platforms - Probably stronger in front-end, but aspiring to become an experienced full stack web developer. 4 years of experience with PHP/Wordpress, also currently heavily focused on learning the React ecosystem + Headless CMS solutions and building projects with them.
 
 ## Web/Frontend
-* HTML - Trying to use BEM architecture for naming classes etc.
-* CSS (mostly using SCSS).
-* JavaScript/EcmaScript (vanilla) - Trying to keep up with new ES releases & write code Object Oriented.
-* Getting into Typescript etc.
-
-*Libraries:*
-* Bootstrap 3/4
-* Semantic UI
-* jQuery
-* tachyons
+* HTML/JSX
+* CSS (almost always using SCSS).
+* JavaScript/Typescript - Trying to keep up with new ES releases and use types where possible.
 
 *Libraries/Frameworks:*
 * React.js (Hooks, Redux etc...)
 * Gatsby js (React + GraphQL)
 * Next.js
 * Vue.js
-* Frontity - The React framework for headless WordPress
+
+* *Libraries:*
+* Bootstrap 3/4
+* Semantic UI
+* jQuery
+* tachyons
+* Slick
+* AOS
+* GSAP
+* ... Actually too many to list out
 
 ## Server/Backend
 *Platforms:* 
@@ -45,7 +47,7 @@ Familiar with several languages/libraries/frameworks/platforms - Trying to maste
 
 ### Non-relational/NoSQL:
 - MongoDB
-- Redis (getting familiar with it)
+- Redis
 
 I have tried to use and implement both relational & non-relational databases and learn their query syntax. 
 
@@ -53,7 +55,7 @@ I have tried to use and implement both relational & non-relational databases and
 * WordPress (Management, Creating themes & Plugins)
 #### WooCommerce etc...
 
-I have created projects, themes & plugins, currently working professionally as a WordPress developer, designing and building websites and online stores daily.
+I have created 100+ websites & online stores,  developed themes & plugins, currently working professionally as a WordPress developer.
 
 ### Development Environmets
 * Visual Studio Code 
@@ -78,7 +80,7 @@ Actually have tried pretty much all code editors and environments, but nothing b
 * Gatsby cloud
 
 ### Deployment workflow
-* Docker - still in the phase of figuring it out.
+* Docker
 * Continuous Deployment from GitHub with DeployHQ & Netlify
 
 ### Stuff I'm planning to master:
@@ -87,8 +89,13 @@ Actually have tried pretty much all code editors and environments, but nothing b
 * Parcel
 #### Working with different APIs
 #### Testing
+* Jest / React Testing Library
 * PHPUnit for PHP unit tests
-#### Workflow Automation
+  
+#### Workflow Tools
+* gulp.js
+* Laravel Mix
+* Vite
 
 - Basically trying to become a senior-ish developer & write clean, modular, reusable and maintanable code!
 ---
